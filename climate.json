@@ -1,0 +1,82 @@
+{
+  "date": "2026-08-19",
+  "fetchedAt": "2026-08-19T01:43:25.446Z",
+  "source": "wikipedia-in-the-news+bbc-world",
+  "chaos": 0.591,
+  "flow": 0.188,
+  "tone": -0.5,
+  "elements": {
+    "jin": 0.203,
+    "mu": 0,
+    "shui": 0.215,
+    "huo": 0.119,
+    "tu": 0.463
+  },
+  "seeds": [
+    {
+      "id": "wiki-1",
+      "title": "2026 Flores earthquake",
+      "weight": 0.74,
+      "tone": -1,
+      "mix": {
+        "jin": 0,
+        "mu": 0,
+        "shui": 0.245,
+        "huo": 0.102,
+        "tu": 0.653
+      },
+      "lat": -8.31,
+      "lon": 121.352,
+      "celestial": false
+    },
+    {
+      "id": "wiki-2",
+      "title": "Zhu Rongji",
+      "weight": 0.8,
+      "tone": 0,
+      "mix": {
+        "jin": 0.256,
+        "mu": 0,
+        "shui": 0,
+        "huo": 0,
+        "tu": 0.744
+      },
+      "lat": 35,
+      "lon": 105,
+      "celestial": false
+    },
+    {
+      "id": "wiki-3",
+      "title": "Solar eclipse of August 12, 2026",
+      "weight": 0.74,
+      "tone": 0,
+      "mix": {
+        "jin": 0.485,
+        "mu": 0,
+        "shui": 0.121,
+        "huo": 0.394,
+        "tu": 0
+      },
+      "lat": 18,
+      "lon": -20,
+      "celestial": true
+    },
+    {
+      "id": "wiki-4",
+      "title": "2026 Lake Kariba ferry accident",
+      "weight": 0.8,
+      "tone": -1,
+      "mix": {
+        "jin": 0.077,
+        "mu": 0,
+        "shui": 0.49,
+        "huo": 0,
+        "tu": 0.434
+      },
+      "lat": -16.795,
+      "lon": 28.276,
+      "celestial": false
+    }
+  ],
+  "history": []
+}
